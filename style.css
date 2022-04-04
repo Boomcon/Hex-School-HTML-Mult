@@ -210,6 +210,7 @@ a {
 .banner_index .btn:hover {
     color: #0c9;
     background: #fff;
+    cursor: pointer;
 }
 
 .course {
