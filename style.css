@@ -365,6 +365,7 @@ a {
 .index-contact .btn:hover {
     color: #0c9;
     background: #fff;
+    cursor: pointer;
 }
 
 /*course*/
